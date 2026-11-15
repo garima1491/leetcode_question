@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2119-a-number-after-a-double-reversal](https://github.com/garima1491/leetcode_question/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/garima1491/leetcode_question/tree/master/2235-add-two-integers) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/garima1491/leetcode_question/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Simulation
 |  |
 | ------- |
