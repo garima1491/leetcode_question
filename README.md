@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/garima1491/leetcode_question/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1920-build-array-from-permutation](https://github.com/garima1491/leetcode_question/tree/master/1920-build-array-from-permutation) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/garima1491/leetcode_question/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Math
 |  |
 | ------- |
