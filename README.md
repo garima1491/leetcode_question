@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/garima1491/leetcode_question/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1672-richest-customer-wealth](https://github.com/garima1491/leetcode_question/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/garima1491/leetcode_question/tree/master/1920-build-array-from-permutation) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/garima1491/leetcode_question/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Math
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/garima1491/leetcode_question/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/garima1491/leetcode_question/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
