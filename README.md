@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/garima1491/leetcode_question/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1512-number-of-good-pairs](https://github.com/garima1491/leetcode_question/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/garima1491/leetcode_question/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/garima1491/leetcode_question/tree/master/1920-build-array-from-permutation) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/garima1491/leetcode_question/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/garima1491/leetcode_question/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/garima1491/leetcode_question/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/garima1491/leetcode_question/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/garima1491/leetcode_question/tree/master/1512-number-of-good-pairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/garima1491/leetcode_question/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/garima1491/leetcode_question/tree/master/2235-add-two-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/garima1491/leetcode_question/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -37,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/garima1491/leetcode_question/tree/master/1672-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/garima1491/leetcode_question/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/garima1491/leetcode_question/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
