@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/garima1491/leetcode_question/tree/master/0001-two-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/garima1491/leetcode_question/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/garima1491/leetcode_question/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/garima1491/leetcode_question/tree/master/1672-richest-customer-wealth) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/garima1491/leetcode_question/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/garima1491/leetcode_question/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
